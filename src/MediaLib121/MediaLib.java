@@ -8,8 +8,8 @@ package MediaLib121;
  */
 public class MediaLib
 {
-    public static void main()
-    {
+    public static void main(String[] args) {
+
         double totalCost = 0.0;
         double totalRating = 0;
         int numSongs = 0;

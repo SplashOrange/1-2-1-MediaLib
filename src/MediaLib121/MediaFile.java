@@ -52,10 +52,10 @@ public class MediaFile
     }
 
     /**
-     * Oens a file to be used for output (if not already open),
-     * writes a string to the file and wrties a newline.
+     * Opens a file to be used for output (if not already open),
+     * writes a string to the file and writes a newline.
      * 
-     * @param s The string text to be written. Follwing the string, a newline is added to the file.
+     * @param s The string text to be written. Following the string, a newline is added to the file.
      */
 
     public static void writeString(String s) {
