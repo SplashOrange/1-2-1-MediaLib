@@ -13,6 +13,7 @@ import java.io.BufferedWriter;
  */
 public class MediaFile  
 {
+
     private static final String DATA_FILE = "mymedia.txt";
 
     private static Scanner in;
