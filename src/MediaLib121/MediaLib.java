@@ -104,6 +104,15 @@ public class MediaLib
         System.out.println("MINE: " + mine.showSong());
 
         MediaFile.writeString(song2.getTitle() + " | " + song2.getRating());
+        MediaFile.writeString(song2.getTitle() + " | " + song3.getRating());
+        MediaFile.writeString(song2.getTitle() + " | " + song4.getRating());
+        MediaFile.writeString(song2.getTitle() + " | " + song5.getRating());
+        MediaFile.writeString(song2.getTitle() + " | " + song6.getRating());
+        MediaFile.writeString(song2.getTitle() + " | " + song7.getRating());
+        MediaFile.writeString(song2.getTitle() + " | " + song8.getRating());
+        MediaFile.writeString(song2.getTitle() + " | " + song9.getRating());
+        MediaFile.writeString(song2.getTitle() + " | " + song10.getRating());
+
         MediaFile.saveAndClose();
 
     }
