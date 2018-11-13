@@ -23,7 +23,7 @@ public class MediaLib
         totalCost = totalCost + song1.getPrice();
         totalRating = totalRating + song1.getRating();
 
-        Song song2 =  new Song("Smooth", .99, 9);
+        Song song2 =  new Song("Sweetener", .99, 9);
         numSongs = numSongs + 1;
         totalCost = totalCost + song2.getPrice();
         totalRating = totalRating + song2.getRating();
